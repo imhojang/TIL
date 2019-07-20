@@ -16,5 +16,3 @@ This is where I keep stuff I learn on day-to-day basis across web development wi
 ### Git
 ### Javascript
 ### React
-[Go to Heading section](#-this-is-a-heading)
-# This is a heading
