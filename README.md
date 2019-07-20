@@ -13,20 +13,43 @@ This is where I keep stuff I learn on day-to-day basis across web development wi
 [Go to Heading section](#-this-is-a-heading)
 
 ### Developer Tools  
-  
-    
-      
-        
-          
-            
-              
-                
-                  
-                    
-                      
-                        
-                          
-                          
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+
 ### Git
 ### Javascript
 ### React
