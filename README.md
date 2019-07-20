@@ -6,50 +6,13 @@ This is where I keep stuff I learn on day-to-day basis across web development wi
 
 ### Categories
 
-[Developer Tools](#developer-tools)  
-[Git](# git)  
+[Developer Tools](#browser-developer-tools)  
+[Git](#git)  
 [Javascript](#javascript)  
 [React](#react)  
 [Go to Heading section](#this-is-a-heading)
 
-### Developer Tools  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-
+### Broswer Developer Tools  
 ### Git
 ### Javascript
 ### React
