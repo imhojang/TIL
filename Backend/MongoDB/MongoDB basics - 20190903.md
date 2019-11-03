@@ -23,11 +23,11 @@ commands:
 
   
 
-mongodb+srv://imhojang:ck984875@vc-project-codewars-v4l7q.azure.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://<id>:<password>@vc-project-codewars-v4l7q.azure.mongodb.net/test?retryWrites=true&w=majority
 
-mongoimport --uri "mongodb+srv://imhojang:ck984875@vc-project-codewars-v4l7q.azure.mongodb.net/test?ssl=true&replicaSet=myAtlasRS&authSource=admin" --collection problems --drop --file ~/Documents/sample_problems.json
+mongoimport --uri "mongodb+srv://<id>:<password>@vc-project-codewars-v4l7q.azure.mongodb.net/test?ssl=true&replicaSet=myAtlasRS&authSource=admin" --collection problems --drop --file ~/Documents/sample_problems.json
 
-mongoimport --host vc-project-codewars-shard-00-02-v4l7q.azure.mongodb.net:27017, --ssl -u imhojang -p 'ck984875' --authenticationDatabase admin  --db test --collection problems --drop --file ~/Documents/sample_problems.json
+mongoimport --host vc-project-codewars-shard-00-02-v4l7q.azure.mongodb.net:27017, --ssl -u <id> -p '<password>' --authenticationDatabase admin  --db test --collection problems --drop --file ~/Documents/sample_problems.json
 
 mongodb+srv://imhojang:ck984875@vc-project-codewars-v4l7q.azure.mongodb.net/test?retryWrites=true&w=majority
 
@@ -35,10 +35,10 @@ mongodb+srv://imhojang:ck984875@vc-project-codewars-v4l7q.azure.mongodb.net/test
 
 **this**
 
-mongoimport --host vc-project-codewars-shard-00-02-v4l7q.azure.mongodb.net:27017 --ssl -u imhojang -p 'ck984875' --authenticationDatabase admin  --db test --collection problems --drop --jsonArray --file ~/Documents/sample_problems.json
+mongoimport --host vc-project-codewars-shard-00-02-v4l7q.azure.mongodb.net:27017 --ssl -u <id> -p '<password>' --authenticationDatabase admin  --db test --collection problems --drop --jsonArray --file ~/Documents/sample_problems.json
 
 
 
 **this**
 
-mongo "mongodb+srv://vc-project-codewars-v4l7q.azure.mongodb.net/test" --username imhojang
+mongo "mongodb+srv://vc-project-codewars-v4l7q.azure.mongodb.net/test" --username <id>
