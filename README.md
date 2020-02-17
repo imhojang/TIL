@@ -9,16 +9,16 @@ to dedicate a full blog post on.
 ---
 ## Categories
 
-[Backend](#backend)  
-[Browser Developer Tools](#browser-developer-tools)  
-[Express.js](#expressjs)  
-[Frontend](#frontend)  
-[Git](#git)  
-[HTTP](#http)  
-[JavaScript](#javascript)  
-[MongoDB](#MongoDB)  
-[React.js](#reactjs)  
-[Uncategorized](#uncategorized)  
+* [Backend](#backend)  
+* [Browser Developer Tools](#browser-developer-tools)  
+* [Express.js](#expressjs)  
+* [Frontend](#frontend)  
+* [Git](#git)  
+* [HTTP](#http)  
+* [JavaScript](#javascript)  
+* [MongoDB](#MongoDB)  
+* [React.js](#reactjs)  
+* [Uncategorized](#uncategorized)  
 ---
 
 ## Backend
