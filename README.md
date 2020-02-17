@@ -40,6 +40,7 @@ to dedicate a full blog post on.
 * [What is HTTP.md](HTTP/what-is-http.md)
 ## JavaScript
 * [Callback.md](JavaScript/async/20190803.md)
+* [Event Loop.md](Javascript/event-loop.md)
 * [Promise Part 1.md](JavaScript/async/20190803-promise-1.md)
 * [Promise Part 2.md](JavaScript/async/20190804-promise-2.md)
 ## MongoDB
