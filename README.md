@@ -10,11 +10,17 @@ to dedicate a full blog post on.
 ### Categories
 
 [Backend](#backend)
+
 [Browser Developer Tools](#browser-developer-tools)
+
 [Frontend](#frontend)
+
 [Git](#git)
+
 [Javascript](#javascript)
+
 [ReactJS](#reactjs)
+
 
 ### Backend
 
