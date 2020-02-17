@@ -9,14 +9,14 @@ to dedicate a full blog post on.
 ---
 ## Categories
 
-[Backend](#backend)  
-[Browser Developer Tools](#browser-developer-tools)  
+[Backend](#backend)
+[Browser Developer Tools](#browser-developer-tools)
 [Express](#express)
-[Frontend](#frontend)  
-[Git](#git)  
+[Frontend](#frontend)
+[Git](#git)
 [HTTP](#http)
-[Javascript](#javascript)  
-[MongoDB](#MongoDB)  
+[Javascript](#javascript)
+[MongoDB](#MongoDB)
 [ReactJS](#reactjs)
 [Uncategorized](#uncategorized)
 ---
