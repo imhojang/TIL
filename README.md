@@ -30,14 +30,14 @@ to dedicate a full blog post on.
 
 ## Express.js
 * [Express Crash Course.md](Backend/Express/express-crash-course.md)
-* [Settings CORS in Express](Backend/Express/setting-cors-in-express.md)
+* [Settings CORS in Express.md](Backend/Express/setting-cors-in-express.md)
 
 ## Frontend
 
 ## Git
 
 ## HTTP
-* [What is HTTP](HTTP/what-is-http.md)
+* [What is HTTP.md](HTTP/what-is-http.md)
 ## JavaScript
 * [Callback.md](JavaScript/async/20190803.md)
 * [Promise Part 1.md](JavaScript/async/20190803-promise-1.md)
