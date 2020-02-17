@@ -12,7 +12,7 @@ to dedicate a full blog post on.
 [Backend](#backend)
 [Browser Developer Tools](#browser-developer-tools)
 [Frontend](#frontend) [Git](#git) [Javascript](#javascript)
-[React](#reactjs)
+[ReactJS](#reactjs)
 
 ### Backend
 
