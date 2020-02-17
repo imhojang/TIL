@@ -104,9 +104,33 @@
 
   ----
 
+- 위의 설명은 필립 로버트의 자바스크립트 이벤트 루프에 관한 강의를 기반으로 작성한 것입니다. 필립 로버트가 만든 http://latentflip.com/loupe에서 이벤트 루프의 작동 방식을 한눈에 실시간으로 확인할 수 있습니다.  
+
+   
+
+  ### 이벤트 루프 기본 동작 방식 (simplified)
+
+- 함수가 실행되면 우선 자바스크립트 엔진의 콜스택에 대기한다.
+
+- 함수 안에 내부 함수가 없는한 web API로 넘어간다
+
+- web API에서 callback queue 에 대기
+
+- callback queue 에서 대기하면서 call stack을 지켜보다가 call stack이 비어있는 순간 이벤트 루프가 차례대로 callback queue에 대기하고 있는 순서대로 함수를 call stack으로 옮겨서 실행.  
+
   
 
-  위의 설명은 필립 로버트의 자바스크립트 이벤트 루프에 관한 강의를 기반으로 작성한 것입니다.  
+  ### 이벤트 루프 (on micro & macro tasks)
 
-  필립 로버트가 만든 http://latentflip.com/loupe에서 이벤트 루프의 작동 방식을 한눈에 실시간으로 확인할 수 있습니다. 
+- setTimeout은 macrotask 이고 Promise는 microtask 이다.
 
+- Microtask queue는 call stack이 비어야 실행 가능.
+
+- microtask queue가 비면 그재서야 macrotask queue 실행 가능.
+
+- call stack이 비면 microtask queue가 하나씩 차례로 **모두 비워질 때까지 실행된다.**
+
+- requestAnimationFrame는 task는 브라우저마다 다름. 
+
+  - chrome은 micro task -> requestAnimationFrame -> macro task
+  - firefox는 micro task -> macro task => requestAnimationFrame
