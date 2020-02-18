@@ -13,3 +13,5 @@
 웹페이지들은 작은 기기들에게 맞도록 비어있지 않고 어떤 기기에서든 내용을 그에 맞게 변화해야합니다.
 
 CSS와 HTML을 사용하여 내용을 숨기거나, 줄이거나, 늘리거나, 움직이거나, 혹은 사이즈를 바꾸는 것이 바로 Responsive Web Design 입니다.
+
+>[w3schools.com](https://www.w3schools.com/css/css_rwd_intro.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.

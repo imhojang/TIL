@@ -12,7 +12,8 @@
 
 반응형 그리드-뷰를 사용하는 웹페이지는 주로 12개의 열로 나뉘어 있고, 전체 너비가 100%이고, 브라우저 창 사이즈에 따라 줄었다 늘었다 합니다.
 
-[responsive grid-view example (w3schools.com)](https://www.w3schools.com/css/tryresponsive_grid.htm)
+[w3schools 예시](https://www.w3schools.com/css/tryresponsive_grid.htm)
+
 ---
 
 ## 반응형 그리드-뷰 만들기
@@ -126,3 +127,5 @@ html {
 }
 ```
 [w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_styles)
+
+>[w3schools.com](https://www.w3schools.com/css/css_rwd_grid.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.

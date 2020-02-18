@@ -1,7 +1,5 @@
 # Responsive Web Design - Media Query
 
->[w3schools.com](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) 의 반응형 CSS를 토대로 한 내용입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.
-
 ## Media Query란?
 
 Media query는 CSS3에서 소개된 CSS 테크닉 입니다.
@@ -231,3 +229,5 @@ media query를 이용하여 스크린 사이즈에 따라 폰트 사이즈를 �
 }
 ```
 [w3school 예시](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_fontsize)
+
+>[w3schools.com](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.
