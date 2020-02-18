@@ -22,7 +22,8 @@ body {
   }
 }
 ```
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery)
+
 
 ## Breakpoint를 추가하자
 
@@ -56,8 +57,10 @@ media query를 사용하여 breakpoint를 768px에 추가해봅시다.
   }
 }
 ```
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_breakpoints)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_breakpoints)
+
 ---
+
 
 ## 항상 Mobile First 디자인을 하자
 
@@ -90,7 +93,8 @@ Mobile First는 항상 모바일 기기에 맞도록 우선 디자인을 한 뒤
 }
 ```
 
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mobilefirst)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mobilefirst)
+
 ---
 
 ## 추가적인 Breakpoint
@@ -155,7 +159,7 @@ media query와 위와 동일한 클래스 묶음을 너비가 `600px` 보다 크
   <div class="col-3 col-s-12">...</div>
 </div>
 ```
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s)
 
 ---
 
@@ -179,7 +183,7 @@ media query와 위와 동일한 클래스 묶음을 너비가 `600px` 보다 크
 /* 엄청 큰 사이즈의 기기들 (스마트폰, 1200px 이상) */
 @media only screen and (min-width: 1200px) {...}
 ```
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_breakpoints)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_breakpoints)
 
 ---
 
@@ -197,7 +201,7 @@ media query와 위와 동일한 클래스 묶음을 너비가 `600px` 보다 크
 }
 ```
 
-<button>[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_orientation)</button>
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_orientation)
 
 ---
 
@@ -211,7 +215,7 @@ media query의 또 다른 흔한 사용 용도는 스크린의 사이즈에 따�
   }
 }
 ```
-<button>[w3school 예시](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_hide)</button>
+[w3school 예시](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_hide)
 
 ---
 
@@ -232,6 +236,6 @@ media query를 이용하여 스크린 사이즈에 따라 폰트 사이즈를 �
   }
 }
 ```
-<button>[w3school 예시](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_fontsize)</button>
+[w3school 예시](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_fontsize)
 
 >[w3schools.com](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.
