@@ -49,4 +49,6 @@ HTML5 에서 소개된 `<meta>` 태그를 통해 웹 디자이너들이 뷰포�
 
 3. CSS Media query를 사용하여 작거나 큰 화면에 각기 다른 스타일을 적용하세요 - 큰 절대값의 CSS 너비를 가진 페이지의 요소는 작은 기기의 뷰포트에서 너무 크게 보일 것 입니다. 그렇게 하기 보다는 width: 100%와 같은 relative width values를 사용해보세요. 그리고 큰 절대값을 가진 position value를 사용하는 것을 조심하세요. 요소들이 작은 기기의 뷰포트의 바깥에 위치할 수 있답니다.
 
+다음 챕터 : [Responsive Web Design - Grid-View](./rwd-grid-view.md)
+
 >[w3schools.com](https://www.w3schools.com/css/css_rwd_viewport.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.
