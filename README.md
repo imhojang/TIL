@@ -27,7 +27,7 @@ to dedicate a full blog post on.
 * [How to check if a server is running and end it using terminal commands.md](backend/general/check-and-kill-server.md)
 * [How to change file permission using terminal commands.md](backend/general/change-file-permission)
 
-## Broswer Developer Tools
+## Browser Developer Tools
 * [Redux DevTools Extension.md](devtools/redux-devtools-extension.md)
 
 ## CSS 
