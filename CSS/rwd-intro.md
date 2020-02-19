@@ -18,6 +18,9 @@ CSS와 HTML을 사용하여 웹페이지 내부의 내용을 숨기거나, 줄�
 
 아래의 예시를 완전히 이해하지 않아도 괜찮습니다. 이어지는 챕터들에서 코드를 하나하나 나누어 차근히 살펴볼 것 입니다.
 
+[w3schools 예시](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s)
+
+
 다음 챕터 : [Responsive Web Design - The Viewport](./rwd-the-viewport.md)
 
 >[w3schools.com](https://www.w3schools.com/css/css_rwd_intro.asp) 의 반응형 CSS를 토대로 한 번역입니다. 경우에 따라 추가 내용이 있을 수도 있습니다.
