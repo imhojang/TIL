@@ -121,14 +121,15 @@
   
 
   ### 이벤트 루프 (on micro & macro tasks)
+- message queue느 사실 두가지 queue 로 나뉜다. 하나느 microtask queue, 그리고 다른 하나는 macrotask queue.
 
-- setTimeout은 macrotask 이고 Promise는 microtask 이다.
+- 이름에서 한눈 알 수 있듯이, microtask queue 에느 microtask만 대기하고, macrotask queue에는 macrotask마 대기하는 것이다.
 
-- Microtask queue는 call stack이 비어야 실행 가능.
+- setTimeout은 macrotask 에 속하고 Promise는 microtask 속한다.
 
-- microtask queue가 비면 그재서야 macrotask queue 실행 가능.
+- Microtask queue는 call stack을 계속해서 확인하면서 완전히 비워졌을 때 call stack으로 이동하여 차례대로 모두 비워질 때 까지 실행된다..
 
-- call stack이 비면 microtask queue가 하나씩 차례로 **모두 비워질 때까지 실행된다.**
+- microtask queue가 비면 그제서야 macrotask queue 실행 가능하다.
 
 - requestAnimationFrame는 task는 브라우저마다 다름. 
 
