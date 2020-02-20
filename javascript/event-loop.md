@@ -121,9 +121,9 @@
   
 
   ### 이벤트 루프 (on micro & macro tasks)
-- message queue느 사실 두가지 queue 로 나뉜다. 하나느 microtask queue, 그리고 다른 하나는 macrotask queue.
+- message queue는 사실 두가지 queue 로 나뉜다. 하나는 microtask queue 이고, 그리고 다른 하나는 macrotask queue 이다.
 
-- 이름에서 한눈 알 수 있듯이, microtask queue 에느 microtask만 대기하고, macrotask queue에는 macrotask마 대기하는 것이다.
+- 이름에서 알 수 있듯이, microtask queue 에느 microtask만 대기하고, macrotask queue에는 macrotask마 대기하는 것이다.
 
 - setTimeout은 macrotask 에 속하고 Promise는 microtask 속한다.
 
