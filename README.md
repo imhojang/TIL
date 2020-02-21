@@ -54,7 +54,7 @@ to dedicate a full blog post on.
 * [Promise Part 2.md](javascript/async/20190804-promise-2.md)
 
 ## MongoDB
-* [MongoDB Basics.md](mongodb/mongodb-basics-20190903.md)
+* [MongoDB Basics.md](backend/mongodb/mongodb-basics-20190903.md)
 
 ## React.js
 
