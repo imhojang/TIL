@@ -20,7 +20,6 @@ to dedicate a full blog post on.
 * [JavaScript](#javascript)  
 * [MongoDB](#mongodb)  
 * [React.js](#reactjs)  
-* [Uncategorized](#uncategorized)  
 ---
 
 ## Backend
@@ -58,4 +57,3 @@ to dedicate a full blog post on.
 
 ## React.js
 
-## uncategorized
