@@ -20,6 +20,7 @@ to dedicate a full blog post on.
 * [JavaScript](#javascript)  
 * [MongoDB](#mongodb)  
 * [React.js](#reactjs)  
+* [VSCode](#vscode)
 ---
 
 ## Backend
@@ -57,3 +58,5 @@ to dedicate a full blog post on.
 
 ## React.js
 
+## VScode
+* [Organize Imports.d](vscode/organize_imports.md)
