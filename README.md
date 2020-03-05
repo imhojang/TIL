@@ -59,4 +59,4 @@ to dedicate a full blog post on.
 ## React.js
 
 ## VScode
-* [Organize Imports.d](vscode/organize_imports.md)
+* [Organize Imports.md](vscode/organize_imports.md)
