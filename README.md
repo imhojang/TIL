@@ -21,6 +21,7 @@ to dedicate a full blog post on.
 * [MongoDB](#mongodb)  
 * [React.js](#reactjs)  
 * [VSCode](#vscode)
+* [Uncategorized](#uncategorized)
 ---
 
 ## Backend
@@ -60,3 +61,6 @@ to dedicate a full blog post on.
 
 ## VScode
 * [Organize Imports.md](vscode/organize_imports.md)
+
+## Uncategorized
+* [Lamp Stack.md](uncategorized/lamp_system.md)
