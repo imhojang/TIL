@@ -62,6 +62,7 @@ to dedicate a full blog post on.
 * [PHP Tutorial : HOME](php/php-tutorial-home.md)
 * [PHP Tutorial : Introduction](php/php-tutorial-introduction.md)
 * [PHP Tutorial : Syntax](php/php-tutorial-syntax.md)
+* [PHP Tutorial : Comments](php/php-tutorial-comments.md)
 
 ## React.js
 
