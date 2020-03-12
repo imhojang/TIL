@@ -1,6 +1,6 @@
 # TIL
 
-> 24 TILs and going 💪
+> 26 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -63,6 +63,7 @@ to dedicate a full blog post on.
 * [PHP Tutorial : Introduction](php/php-tutorial-introduction.md)
 * [PHP Tutorial : Syntax](php/php-tutorial-syntax.md)
 * [PHP Tutorial : Comments](php/php-tutorial-comments.md)
+* [PHP Tutorial : Variables](php/php-tutorial-variables.md)
 
 ## React.js
 
