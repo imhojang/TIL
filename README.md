@@ -1,6 +1,6 @@
 # TIL
 
-> 32 TILs and going 💪
+> 34 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -71,6 +71,7 @@ to dedicate a full blog post on.
 * [PHP Tutorial : Constants](php/php-tutorial-constants.md)
 * [PHP Tutorial : Operators](php/php-tutorial-operators.md)
 * [PHP Tutorial : if else elseif Statement](php/php-tutorial-if-else-elseif.md)
+* [PHP Tutorial : switch Statement](php/php-tutorial-switch-statement.md)
 
 ## React.js
 
