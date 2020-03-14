@@ -1,6 +1,6 @@
 # TIL
 
-> 38 TILs and going 💪
+> 39 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -76,7 +76,7 @@ to dedicate a full blog post on.
 * [PHP Tutorial : Functions](php/php-tutorial-functions.md)
 * [PHP Tutorial : Arrays](php/php-tutorial-arrays.md)
 * [PHP Tutorial : Indexed Arrays](php/php-tutorial-indexed-arrays.md)
-
+* [PHP Tutorial : Associative Arrays](php/php-tutorial-associative-arrays.md)
 ## React.js
 
 ## VScode
