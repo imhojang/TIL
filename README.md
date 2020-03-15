@@ -20,6 +20,7 @@ to dedicate a full blog post on.
 - [Git](#git)
 - [HTTP](#http)
 - [JavaScript](#javascript)
+- [Laravel](#laravel)
 - [MongoDB](#mongodb)
 - [PHP](#php)
 - [React.js](#reactjs)
@@ -67,6 +68,8 @@ to dedicate a full blog post on.
 - [Event Loop.md](javascript/event-loop.md)
 - [Promise Part 1.md](javascript/async/20190803-promise-1.md)
 - [Promise Part 2.md](javascript/async/20190804-promise-2.md)
+
+## Laravel
 
 ## MongoDB
 
