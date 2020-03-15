@@ -1,6 +1,6 @@
 # TIL
 
-> 44 TILs and going 💪
+> 45 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -96,6 +96,7 @@ to dedicate a full blog post on.
 - [PHP Tutorial : Sorting Arrays](php/php-tutorial-sorting-arrays.md)
 - [PHP Tutorial : Global Varibles - Superglobals](php/php-tutorial-global-variables-superglobals)
 - [PHP Tutorial : Superglobal - $GLOBALS](php/php-tutorial-superglobal-globals)
+- [PHP Tutorial : Superglobal - $_SERVER](php/php-tutorial-superglobal-server)
 
 ## React.js
 
