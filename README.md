@@ -1,6 +1,6 @@
 # TIL
 
-> 47 TILs and going 💪
+> 48 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -99,6 +99,7 @@ to dedicate a full blog post on.
 - [PHP Tutorial : Superglobal - $_SERVER](php/php-tutorial-superglobal-server)
 - [PHP Tutorial : Superglobal - $_REQUEST](php/php-tutorial-superglobal-request.md)
 - [PHP Tutorial : Superglobal - $_POST](php/php-tutorial-superglobal-post.md)
+- [PHP Tutorial : Superglobal - $_GET](php/php-tutorial-superglobal-get.md)
 
 ## React.js
 
