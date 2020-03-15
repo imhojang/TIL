@@ -1,6 +1,6 @@
 # TIL
 
-> 43 TILs and going 💪
+> 44 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -95,6 +95,7 @@ to dedicate a full blog post on.
 - [PHP Tutorial : Multidimensional Arrays](php/php-tutorial-multidimensional-arrays.md)
 - [PHP Tutorial : Sorting Arrays](php/php-tutorial-sorting-arrays.md)
 - [PHP Tutorial : Global Varibles - Superglobals](php/php-tutorial-global-variables-superglobals)
+- [PHP Tutorial : Superglobal - $GLOBALS](php/php-tutorial-superglobal-globals)
 
 ## React.js
 
