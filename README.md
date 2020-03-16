@@ -1,6 +1,6 @@
 # TIL
 
-> 48 TILs and going 💪
+> 49 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -70,6 +70,8 @@ to dedicate a full blog post on.
 - [Promise Part 2.md](javascript/async/20190804-promise-2.md)
 
 ## Laravel
+
+- [Laravel Install Celebration](laravel/laravel-install.md)
 
 ## MongoDB
 
