@@ -1,6 +1,6 @@
 # TIL
 
-> 49 TILs and going 💪
+> 50 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -72,6 +72,7 @@ to dedicate a full blog post on.
 ## Laravel
 
 - [Laravel Install Celebration](laravel/laravel-install.md)
+- [Laravel General Knowledge](laravel/laravel-general.md)
 
 ## MongoDB
 
