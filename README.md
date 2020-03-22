@@ -1,6 +1,6 @@
 # TIL
 
-> 50 TILs and going 💪
+> 52 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
 development with focus in front-end engineering. It's a collection of
@@ -21,6 +21,7 @@ to dedicate a full blog post on.
 - [Git](#git)
 - [HTTP](#http)
 - [JavaScript](#javascript)
+- [Kubernetes](#kubernetes)
 - [Laravel](#laravel)
 - [MongoDB](#mongodb)
 - [PHP](#php)
@@ -47,6 +48,7 @@ to dedicate a full blog post on.
 - [Responsive Web Design - Media Query.md](CSS/rwd-media-query.md)
 
 ## DevOps
+- [[독서 노트] IT 운용 체제 변화를 위한 데브옵스](devops/devops-for-change-in-it-operations.md)
 
 ## Express.js
 
@@ -71,6 +73,10 @@ to dedicate a full blog post on.
 - [Event Loop.md](javascript/event-loop.md)
 - [Promise Part 1.md](javascript/async/20190803-promise-1.md)
 - [Promise Part 2.md](javascript/async/20190804-promise-2.md)
+
+## Kubernetes
+
+- [Kubernetes Dictionary](kubernetes/kubernetes-dictionary.md)
 
 ## Laravel
 
