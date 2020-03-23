@@ -131,6 +131,26 @@ In order for us to run this migrate command, we need to set up some sort of data
 
 ---
 
-## SQLLite
+## SQLite
 
 Create a file and this file is going to be a flat-file database file. That's how SQLLite works.
+
+```
+// .env
+DB_CONNECTION=sqlite
+
+// erase everything else that starts with "DB_"
+```
+>TIP: if you make any changes to .env file, make sure to stop the server from running and restart for it to work without any errors
+
+How do we actually get the database migrated? How do we get the latest state possible?
+
+`php artisan migrate`
+
+This should create users table & password resets table.
+
+---
+
+In order to add a new field in `register` such as `username`, we have to look at what `make auth` actually added to our files.
+
+Go to `/views/auth` directory's `register.blade.php`
