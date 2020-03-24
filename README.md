@@ -50,8 +50,6 @@ to dedicate a full blog post on.
 ## DevOps
 - [[독서 노트] IT 운용 체제 변화를 위한 데브옵스](devops/devops-for-change-in-it-operations.md)
 
-- [[독서노트] IT 운영체제 변화를 위한 데브옵스](devops/devops-for-a-change-in-it-operations.md)
-
 ## Express.js
 
 - [Express Crash Course.md](backend/express/express-crash-course.md)
