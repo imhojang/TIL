@@ -48,7 +48,7 @@ to dedicate a full blog post on.
 - [Responsive Web Design - Media Query.md](CSS/rwd-media-query.md)
 
 ## DevOps
-- [[독서 노트] IT 운용 체제 변화를 위한 데브옵스](devops/devops-for-change-in-it-operations.md)
+- [독서: IT 운용 체제 변화를 위한 데브옵스](devops/devops-for-change-in-it-operations.md)
 
 ## Express.js
 
