@@ -30,22 +30,13 @@
 ## Other
 
 - back-office software
-
 - GCP
-
 - in-house software
-
 - MSA
-
 - on-premise
-
 - RDP
-
 - SRE
-
 - IDE
-
-  
 
 ## Tools
 
