@@ -1,5 +1,5 @@
-# TIL
-
+# TIL 
+ 
 > 54 TILs and going 💪
 
 This is where I keep stuff I learn on day-to-day basis across web
@@ -9,7 +9,10 @@ to dedicate a full blog post on.
 
 ---
 
-## Categories
+📚 Try viewing this page on **[Gitbook](https://ericimhojang.gitbook.io/todayilearned/)**! 📚
+
+
+## Table of Contents
 
 - [Backend](#backend)
 - [Browser Developer Tools](#browser-developer-tools)
@@ -56,15 +59,11 @@ to dedicate a full blog post on.
 - [Express Crash Course.md](backend/express/express-crash-course.md)
 - [Settings CORS in Express.md](backend/express/setting-cors-in-express.md)
 
-## Frontend
 
 ## General
 
 - [Web Architecture 101](general/web-architecture-101.md)
 
-## Git
-
-## HTTP
 
 - [What is HTTP.md](http/what-is-http.md)
 
@@ -116,8 +115,6 @@ to dedicate a full blog post on.
 - [PHP Tutorial : Superglobal - $_REQUEST](php/php-tutorial-superglobal-request.md)
 - [PHP Tutorial : Superglobal - $_POST](php/php-tutorial-superglobal-post.md)
 - [PHP Tutorial : Superglobal - $_GET](php/php-tutorial-superglobal-get.md)
-
-## React.js
 
 ## VScode
 
