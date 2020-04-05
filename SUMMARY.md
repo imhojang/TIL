@@ -1,4 +1,5 @@
-
+* [Blog](https://imhojang.github.io)
+* [Github](https://github.com/imhojang)
 
 * Backend
   * [How to check if a server is running and end it using terminal commands.md](backend/general/check-and-kill-server.md)
