@@ -125,6 +125,7 @@ to dedicate a full blog post on.
 
 ## Swift
 
+- [Swift란 어떤 언어인가 ?](swift/1_스위프트란_어떤_언어인가.md)
 
 ## VScode
 
