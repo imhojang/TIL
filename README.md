@@ -126,6 +126,7 @@ to dedicate a full blog post on.
 ## Swift
 
 - [Swift란 어떤 언어인가 ?](swift/1_스위프트란_어떤_언어인가.md)
+- [Swift closure 선언과 축약 표현](swift/2_스위프트_클로져_선언과_축약_표현)
 
 ## VScode
 
