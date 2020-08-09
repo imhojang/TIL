@@ -1,6 +1,6 @@
 ## Discovering Swift 🦅
 
-Today I found a web that where I can self analyze my swift skill with some interesting set of quizzes they have available. Here I have listed some Swift grammer insights, and questions that I got it wrong / want to review later. 
+Today I ran into a website where I can self-analyze my swift skillset with some interesting set of quizzes. Here I have listed some Swift grammer insights, and questions that I got it wrong / want to review later. 
 
 Link to Swift Quiz: https://www.hackingwithswift.com/test
 
