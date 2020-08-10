@@ -1,4 +1,4 @@
-\## Discovering Swift 🦅
+## Discovering Swift 🦅
 
 
 
@@ -10,11 +10,11 @@ Link to Swift Quiz: https://www.hackingwithswift.com/test
 
 
 
-\---
+---
 
 
 
-\```swift
+```swift
 
 enum CompassDirection: CaseIterable {
 
@@ -36,13 +36,13 @@ let caseList = CompassDirection.allCases
 
 // *caseList == "north, south, east, west"*
 
-\```
+```
 
 
 
 
 
-\#### CaseIterable
+#### CaseIterable
 
 
 
@@ -60,11 +60,11 @@ Types that conform to the `CaseIterable` protocol are typically enumerations wit
 
 
 
-\---
+---
 
 
 
-\####  Answer Review 🙆🏻‍♀️🙅🏿‍♂️
+####  Answer Review 🙆🏻‍♀️🙅🏿‍♂️
 
 
 
@@ -80,7 +80,7 @@ What output will be produced by the code below?
 
 
 
-\```swift
+```swift
 
 class Starship {
 
@@ -96,7 +96,7 @@ let serenity = Starship(type: "Firefly", age: 24)
 
 print(serenity.type)
 
-\```
+```
 
 
 
@@ -122,7 +122,7 @@ Explanation: Struct have memberwise initialization as standard, but this is not 
 
 
 
-\```swift
+```swift
 
 let first = ["Sulaco", "Nostromo"]
 
@@ -130,7 +130,7 @@ let second = ["X-Wing", "TIE Fighter"]
 
 let third = first + second
 
-\```
+```
 
 
 
@@ -152,7 +152,7 @@ Explanation: Swift arrays can be joined together using the ****+**** operator, w
 
 
 
-\```swift
+```swift
 
 let oneMillion = 1_000_000
 
@@ -160,7 +160,7 @@ let oneThousand = oneMillion / 0_1_0_0_0
 
 print(oneThousand)
 
-\```
+```
 
 
 
@@ -182,11 +182,11 @@ Explanation: Swift allows you to ****use any number of leading zeros before a nu
 
 
 
-\```swift
+```swift
 
 let i = 10.2
 
-\```
+```
 
 
 
@@ -212,7 +212,7 @@ Explanation: When given a floating-point number, Swift's type inference will use
 
 
 
-\```swift
+```swift
 
 *final* class Dog {
 
@@ -242,7 +242,7 @@ let muttface = Corgi()
 
 muttface.bark()
 
-\```
+```
 
 
 
@@ -268,7 +268,7 @@ Explanation: The `Dog` class is marked as `final`. This means that the class can
 
 
 
-\```swift
+```swift
 
 var i = 2
 
@@ -280,7 +280,7 @@ var i = 2
 
 } *while* (i < 128)
 
-\```
+```
 
 
 
@@ -306,11 +306,11 @@ Explanation: The `do` keyword is invalid here; should use `repeat` instead.
 
 
 
-\```swift
+```swift
 
 let num = UInt.min
 
-\```
+```
 
 
 
@@ -330,7 +330,7 @@ Explanation: `UInt` stands for `unsigned integer`, and indicates integer with ze
 
 
 
-\```swift
+```swift
 
 *for* i *in* 3...1 {
 
@@ -338,7 +338,7 @@ Explanation: `UInt` stands for `unsigned integer`, and indicates integer with ze
 
 }
 
-\```
+```
 
 
 
@@ -366,15 +366,15 @@ Which Swift compiler directive will force the compiler to issue an error?
 
 
 
-\- \#error
+- \#error
 
-\- @error
+- @error
 
-\- !error
+- !error
 
-\- _ERROR
+- _ERROR
 
-\- none
+- none
 
 
 
@@ -394,7 +394,7 @@ Explanation: The `#error` compiler directive forces Switch to issue an error. It
 
 
 
-\```swift
+```swift
 
 let names = ["Amy", "Clara"]
 
@@ -406,7 +406,7 @@ let names = ["Amy", "Clara"]
 
 }
 
-\```
+```
 
 
 
@@ -436,7 +436,7 @@ With that replacement, the code will compile, but will then crash becasue it use
 
 
 
-\```swift
+```swift
 
 enum Weather {
 
@@ -470,7 +470,7 @@ let today: Weather = .windy(speed: 10)
 
 }
 
-\```
+```
 
 
 
@@ -490,7 +490,7 @@ Explanation: The `windy` case value has an associated value to store the wind sp
 
 
 
-\```swift
+```swift
 
 let names = ["Chris", "Joe", "Doug", "Jordan"]
 
@@ -502,7 +502,7 @@ let names = ["Chris", "Joe", "Doug", "Jordan"]
 
 }
 
-\```
+```
 
 
 
@@ -526,7 +526,7 @@ Explanation: ****Subscripting an array of strings will return a** `**String**` *
 
 
 
-\```swift
+```swift
 
 let names = ["Serenity", "Sulaco", "Enterprise", "Galactica"]
 
@@ -538,7 +538,7 @@ let names = ["Serenity", "Sulaco", "Enterprise", "Galactica"]
 
 }
 
-\```
+```
 
 
 
