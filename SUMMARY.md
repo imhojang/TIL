@@ -48,6 +48,10 @@
 
   * [MongoDB Basics.md](backend/mongodb/mongodb-basics-20190903.md)
 
+* Object Oriented Programming (OOP) 
+
+  * [static variables - why, what, & how](oop/static_var.md)
+
 * PHP
 
   * [PHP Tutorial : HOME](php/php-tutorial-home.md)
