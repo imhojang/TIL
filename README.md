@@ -133,6 +133,8 @@ to dedicate a full blog post on.
 - [Swift closure 선언과 축약 표현](swift/2_스위프트_클로져_선언과_축약_표현.md)
 - [Testing my Swift skills through an online quiz (less than 1 month in)](swift/3_discovering_swift.md)
 
+[20210503](swift/20210503.md)
+
 ## VScode
 
 - [Organize Imports.md](vscode/organize_imports.md)
